@@ -1,0 +1,67 @@
+head,
+body {
+	height: 100%;
+
+}
+
+/* Cover*/
+
+#cover {
+	background: #222 url('assets/star.jpg') bottom center no-repeat;
+	background-size: cover;
+	color: white;
+	height: 900px;
+	text-align: center;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+	align-items: center;
+	padding-left: 15%;
+}
+
+#cover form {
+	padding-left: 15%;
+}
+
+/* Cover caption */
+
+#cover-caption {
+	width: 100%;
+}
+
+
+
+.section-content {
+	padding: 5rem 0;
+}
+
+
+.card-block {
+	padding: 10px;
+}
+
+#about {
+	background: url('assets/girl.jpeg') no-repeat;
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+
+.about-text {
+	background: rgba(0, 0, 0, 0.8);
+	color: white;
+	padding: 1.875rem;
+}
+
+#footer-main {
+	background: #222;
+	color: white;
+	font-size: 0.8rem;
+	padding: 2.5rem 0;
+}
+
+.carousel-item img {
+	height: 900px;
+	width: 100%;
+}

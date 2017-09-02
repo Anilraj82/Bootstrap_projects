@@ -1,2 +1,2 @@
-# Bootstrap_projects
-This repo contains several bootstrap projects.
+# Bootstrap_project
+Basic website created using Bootstrap 4 beta.
